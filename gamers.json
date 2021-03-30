@@ -1,41 +1,37 @@
 {
-  "title": "Gamers!",
-  "description": "Gamers are very good at communicating.",
-  "artist": "高橋つばさ",
-  "author": "葵せきな",
-  "cover": "https://i.imgur.com/mex1OH5.png",
-  "chapters": {
-    "11": {
-      "title": "Gamers and Early Access - Part 2",
-      "volume": "3",
-      "groups": {
-        "Moe & Friends": "/proxy/api/imgur/chapter/tbbV6vB/"
-      },
-      "last_updated": "1696969696"
-    },
-    "12": {
-      "title": "Gamers and Early Access - Part 3",
-      "volume": "3",
-      "groups": {
-        "Moe & Friends": "/proxy/api/imgur/chapter/N6f4BoZ/"
-      },
-      "last_updated": "1696969696"
-    },
-    "13": {
-      "title": "Gamers and Early Access - Part 4",
-      "volume": "3",
-      "groups": {
-        "Moe & Friends": "/proxy/api/imgur/chapter/J19UA0l/"
-      },
-      "last_updated": "1696969696"
-    },
-    "14": {
-      "title": "Gamers and Early Access - Part 5",
-      "volume": "3",
-      "groups": {
-        "Moe & Friends": "/proxy/api/imgur/chapter/BEEqrig/"
-      },
-      "last_updated": "1696969696"
-    }
-  }
+	"title": "Gamers!",
+	"description": "Gamers are very good at communicating.",
+	"artist": "高橋つばさ",
+	"author": "葵せきな",
+	"cover": "https://i.imgur.com/mex1OH5.png",
+	"chapters": {
+		"11": {
+			"title": "Gamers and Early Access - Part 2",
+			"volume": "3",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/tbbV6vB/"
+			}
+		},
+		"12": {
+			"title": "Gamers and Early Access - Part 3",
+			"volume": "3",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/N6f4BoZ/"
+			}
+		},
+		"13": {
+			"title": "Gamers and Early Access - Part 4",
+			"volume": "3",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/J19UA0l/"
+			}
+		},
+		"14": {
+			"title": "Gamers and Early Access - Part 5",
+			"volume": "3",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/BEEqrig/"
+			}
+		}
+	}
 }

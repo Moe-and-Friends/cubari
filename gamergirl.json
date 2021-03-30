@@ -1,665 +1,583 @@
 {
-    "title": "Hanging Out With A Gamer Girl",
-    "description": "Girl meets boy/girl.",
-    "artist": "にちい",
-    "author": "にちい",
-    "cover": "https://cdn.discordapp.com/attachments/638397764924997632/825754284167397376/EQ45EdkVAAARAW6.jpg",
-    "chapters": {
-        "1": {
-            "title": "Sometimes Reality Tells Lies, Too",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/XZFhYv3/"
-            },
-            "last_updated": "1617029741"
-        },
-        "2": {
-            "title": "I Go To The Arcade With My Gamer Friend (1)",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/4LFKyUd/"
-            },
-            "last_updated": "1617029741"
-        },
-        "3": {
-            "title": "I Go To The Arcade With My Gamer Friend (2)",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/nJBXGNQ/"
-            },
-            "last_updated": "1617029741"
-        },
-        "4": {
-            "title": "I Go To The Arcade With My Gamer Friend (3)",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/uLDnQMp/"
-            },
-            "last_updated": "1617029741"
-        },
-        "5": {
-            "title": "I Send My Gamer Friend Home (1)",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/nSabmJH/"
-            },
-            "last_updated": "1617029741"
-        },
-        "6": {
-            "title": "I Send My Gamer Friend Home (2)",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/sbgExyE/"
-            },
-            "last_updated": "1617029741"
-        },
-        "7": {
-            "title": "My Gamer Friend Massively Screws Up",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/2hJKyOk/"
-            },
-            "last_updated": "1617029741"
-        },
-        "8": {
-            "title": "Voice Chatting With My Gamer Friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/C8GZ3Kn/"
-            },
-            "last_updated": "1617029741"
-        },
-        "9": {
-            "title": "My Gamer Friend Forces Me To Cross-dress (1)",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/XehGTzF/"
-            },
-            "last_updated": "1617029741"
-        },
-        "10": {
-            "title": "My Gamer Friend Forces Me To Cross-dress (2)",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/ULM7nS4/"
-            },
-            "last_updated": "1617029741"
-        },
-        "11": {
-            "title": "I go to a Hot Spring Resort with my Gamer Friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/BqG9lkC/"
-            },
-            "last_updated": "1617029741"
-        },
-        "12": {
-            "title": "I Shop For Clothes With My Gamer Friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/T4Koy5V/"
-            },
-            "last_updated": "1617029741"
-        },
-        "13": {
-            "title": "I Go to a Net Cafe with my Gamer Friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/qyPj317/"
-            },
-            "last_updated": "1617029741"
-        },
-        "14": {
-            "title": "My Gamer Friend and a certain shark plushie",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/oqTHJnu/"
-            },
-            "last_updated": "1617029741"
-        },
-        "15": {
-            "title": "My Gamer Friend’s parents are worried about her",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/VgItLbH/"
-            },
-            "last_updated": "1617029741"
-        },
-        "16": {
-            "title": "I Go on a Diet with my Gamer Friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/tK1lQJf/"
-            },
-            "last_updated": "1617029741"
-        },
-        "17": {
-            "title": "I Get Chocolate From My Gamer Friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/6AVbqeT/"
-            },
-            "last_updated": "1617029741"
-        },
-        "18": {
-            "title": "I go to a Collaboration Cafe with my Gamer Friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/IC3GF5G/"
-            },
-            "last_updated": "1617029741"
-        },
-        "19": {
-            "title": "My Gamer Friend Gets Hit On",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/XPpWU9A/"
-            },
-            "last_updated": "1617029741"
-        },
-        "20": {
-            "title": "I almost get separated from my gamer friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/6SsDVvg/"
-            },
-            "last_updated": "1617029741"
-        },
-        "21": {
-            "title": "My Gamer Friend Becomes a (Temporary) Mother",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/jxkZaXx/"
-            },
-            "last_updated": "1617029741"
-        },
-        "22": {
-            "title": "I End Up Touching My Gamer Friend’s Chest",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/ruJ5np8/"
-            },
-            "last_updated": "1617029741"
-        },
-        "23": {
-            "title": "The story of Shimizu-san, a woman who’s wasted 80% of her twenties watching couples visit net cafes",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/1jLRBYm/"
-            },
-            "last_updated": "1617029741"
-        },
-        "24": {
-            "title": "I get McDonalds with my gamer friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/accabR6/"
-            },
-            "last_updated": "1617029741"
-        },
-        "25": {
-            "title": "Inadvertently Becoming Conscious Of The Situation",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/e9MWLUr/"
-            },
-            "last_updated": "1617029741"
-        },
-        "26": {
-            "title": "Shopping For Summer Clothes",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/FzRqxBt/"
-            },
-            "last_updated": "1617029741"
-        },
-        "27": {
-            "title": "Chapter 27",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/nTkzGqY/"
-            },
-            "last_updated": "1617029741"
-        },
-        "28": {
-            "title": "Chapter 28",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/4HGe9ex/"
-            },
-            "last_updated": "1617029741"
-        },
-        "29": {
-            "title": "Chapter 29",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/fUphhVt/"
-            },
-            "last_updated": "1617029741"
-        },
-        "30": {
-            "title": "Chapter 30",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/ORvCxmT/"
-            },
-            "last_updated": "1617029741"
-        },
-        "31": {
-            "title": "Chapter 31",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/TrY3FdD/"
-            },
-            "last_updated": "1617029741"
-        },
-        "32": {
-            "title": "I buy glasses with my gamer friend",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/PjpkPmX/"
-            },
-            "last_updated": "1617029741"
-        },
-        "33": {
-            "title": "Kaori-chan ①",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/j7RTDoX/"
-            },
-            "last_updated": "1617029741"
-        },
-        "34": {
-            "title": "Kaori-chan ②",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/ZT40qfz/"
-            },
-            "last_updated": "1617029741"
-        },
-        "35": {
-            "title": "Family and Food",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/0Fe24gi/"
-            },
-            "last_updated": "1617029741"
-        },
-        "36": {
-            "title": "Father",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/BCuiw40/"
-            },
-            "last_updated": "1617029741"
-        },
-        "37": {
-            "title": "Her First Wig",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/OUMg9fT/"
-            },
-            "last_updated": "1617029741"
-        },
-        "38": {
-            "title": "It Just Seems Natural",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/3ffrKqs/"
-            },
-            "last_updated": "1617029741"
-        },
-        "38.5": {
-            "title": "Extra chapter",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/UHzNEqo/"
-            },
-            "last_updated": "1617029741"
-        },
-        "39": {
-            "title": "I Figured You Must Like It",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/3NNMT4Y/"
-            },
-            "last_updated": "1617029741"
-        },
-        "40": {
-            "title": "Good Night and Thanks",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/MgX0Y60/"
-            },
-            "last_updated": "1617029741"
-        },
-        "41": {
-            "title": "You'll Understand Someday",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/LrJHcky/"
-            },
-            "last_updated": "1617029741"
-        },
-        "42": {
-            "title": "Isn’t This Exciting",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/K5szf9e/"
-            },
-            "last_updated": "1617029741"
-        },
-        "43": {
-            "title": "If Only I Hadn't Suggested It",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/Miopg8v/"
-            },
-            "last_updated": "1617029741"
-        },
-        "44": {
-            "title": "What Do You Mean \"No Way\"!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/7RHRmvM/"
-            },
-            "last_updated": "1617029741"
-        },
-        "45": {
-            "title": "Friend from School",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/gDcvxLs/"
-            },
-            "last_updated": "1617029741"
-        },
-        "46": {
-            "title": "How Do I Want Him to Feel About Me",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/uNEVbT0/"
-            },
-            "last_updated": "1617029741"
-        },
-        "46.5": {
-            "title": "Comiket 98 Extra",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/RrOEjMm/"
-            },
-            "last_updated": "1617029741"
-        },
-        "47": {
-            "title": "Good Luck, Miruku-chan",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/qWFSBjP/"
-            },
-            "last_updated": "1617029741"
-        },
-        "48": {
-            "title": "Don't Get The Wrong Idea!!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/URj4Y5B/"
-            },
-            "last_updated": "1617029741"
-        },
-        "49": {
-            "title": "You Like Him, Don't You",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/jNSPoIY/"
-            },
-            "last_updated": "1617029741"
-        },
-        "50": {
-            "title": "I Went All Out!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/1jP4L6D/"
-            },
-            "last_updated": "1617029741"
-        },
-        "50.5": {
-            "title": "What a Good Girl",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/tYTX81N/"
-            },
-            "last_updated": "1617029741"
-        },
-        "51": {
-            "title": "Honest Heart",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/XSgqTsP/"
-            },
-            "last_updated": "1617029741"
-        },
-        "52": {
-            "title": "Is That All I Am to You!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/vIJWqXb/"
-            },
-            "last_updated": "1617029741"
-        },
-        "53": {
-            "title": "Her \"Offer Your Seat\" Deck Is Too Weak!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/EKs3N1s/"
-            },
-            "last_updated": "1617029741"
-        },
-        "53.5": {
-            "title": "That Reminded Me of You",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/6dSXcEI/"
-            },
-            "last_updated": "1617029741"
-        },
-        "54": {
-            "title": "It's up to You to Do It",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/LcrmVKt/"
-            },
-            "last_updated": "1617029741"
-        },
-        "54.5": {
-            "title": "I Don't Mind Doing It For You Again",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/nDTVx52/"
-            },
-            "last_updated": "1617029741"
-        },
-        "55": {
-            "title": "Can I Touch You",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/yguBPBY/"
-            },
-            "last_updated": "1617029741"
-        },
-        "56": {
-            "title": "Don’t Leave Me!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/AyoZmMx/"
-            },
-            "last_updated": "1617029741"
-        },
-        "57": {
-            "title": "Wanna Take a Shower",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/4iuQ6fi/"
-            },
-            "last_updated": "1617029741"
-        },
-        "57.5": {
-            "title": "A Chill Down My Spine",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/fo6m1Ws/"
-            },
-            "last_updated": "1617029741"
-        },
-        "58": {
-            "title": "Do You Have a Sister or Something",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/5JiSA8X/"
-            },
-            "last_updated": "1617029741"
-        },
-        "59": {
-            "title": "An Act of God",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/JrTIDAa/"
-            },
-            "last_updated": "1617029741"
-        },
-        "60": {
-            "title": "This Is Bad!!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/AGmsdpP/"
-            },
-            "last_updated": "1617029741"
-        },
-        "61": {
-            "title": "I Want to Be With You",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/2dHh6mU/"
-            },
-            "last_updated": "1617029741"
-        },
-        "62": {
-            "title": "I Think I Like You",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/xtCbtuy/"
-            },
-            "last_updated": "1617029741"
-        },
-        "63": {
-            "title": "I Don't Have To Hide Anything About Myself",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/2wR3E06/"
-            },
-            "last_updated": "1617029741"
-        },
-        "64": {
-            "title": "I Guess I Can Let You Off This Time",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/Bs5LPaE/"
-            },
-            "last_updated": "1617029741"
-        },
-        "65": {
-            "title": "So This Is His Type",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/JAJNoss/"
-            },
-            "last_updated": "1617029741"
-        },
-        "66": {
-            "title": "Didn't You Learn That in School",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/1rsbHte/"
-            },
-            "last_updated": "1617029741"
-        },
-        "67": {
-            "title": "Going to Your School Sounds Pretty Nice",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/K8TTFHH/"
-            },
-            "last_updated": "1617029741"
-        },
-        "68": {
-            "title": "Life Is Like A Cup Of Tea",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/ESfUuO3/"
-            },
-            "last_updated": "1617029741"
-        },
-        "69": {
-            "title": "It's Going To Get Busy",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/oBjwtEs/"
-            },
-            "last_updated": "1617029741"
-        },
-        "70": {
-            "title": "Pumpkins Don't Talk This Much!",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/9i5Lfbk/"
-            },
-            "last_updated": "1617029741"
-        },
-        "71": {
-            "title": "See You Tommorow",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/euoYIJ1/"
-            },
-            "last_updated": "1617029741"
-        },
-        "72": {
-            "title": "Friends",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/Ig0gfcM/"
-            },
-            "last_updated": "1617029741"
-        },
-        "73": {
-            "title": "I'll Make Sure To Remember",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/Hnn7iJo/"
-            },
-            "last_updated": "1617029741"
-        },
-        "74": {
-            "title": "Everyone Has Things They Don't Like",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/GrHpiAp/"
-            },
-            "last_updated": "1617029741"
-        },
-        "75": {
-            "title": "See You Later",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/ROSwJ41/"
-            },
-            "last_updated": "1617029741"
-        },
-        "76": {
-            "title": "What's Your Favourite Food",
-            "volume": "",
-            "groups": {
-                "Moe & Friends": "/proxy/api/imgur/chapter/KSol2yV/"
-            },
-            "last_updated": "1617029741"
-        }
-    }
+	"title": "Hanging Out With A Gamer Girl",
+	"description": "Girl meets boy/girl.",
+	"artist": "にちい",
+	"author": "にちい",
+	"cover": "https://cdn.discordapp.com/attachments/638397764924997632/825754284167397376/EQ45EdkVAAARAW6.jpg",
+	"chapters": {
+		"1": {
+			"title": "Sometimes Reality Tells Lies, Too",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/XZFhYv3/"
+			}
+		},
+		"2": {
+			"title": "I Go To The Arcade With My Gamer Friend (1)",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/4LFKyUd/"
+			}
+		},
+		"3": {
+			"title": "I Go To The Arcade With My Gamer Friend (2)",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/nJBXGNQ/"
+			}
+		},
+		"4": {
+			"title": "I Go To The Arcade With My Gamer Friend (3)",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/uLDnQMp/"
+			}
+		},
+		"5": {
+			"title": "I Send My Gamer Friend Home (1)",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/nSabmJH/"
+			}
+		},
+		"6": {
+			"title": "I Send My Gamer Friend Home (2)",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/sbgExyE/"
+			}
+		},
+		"7": {
+			"title": "My Gamer Friend Massively Screws Up",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/2hJKyOk/"
+			}
+		},
+		"8": {
+			"title": "Voice Chatting With My Gamer Friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/C8GZ3Kn/"
+			}
+		},
+		"9": {
+			"title": "My Gamer Friend Forces Me To Cross-dress (1)",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/XehGTzF/"
+			}
+		},
+		"10": {
+			"title": "My Gamer Friend Forces Me To Cross-dress (2)",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/ULM7nS4/"
+			}
+		},
+		"11": {
+			"title": "I go to a Hot Spring Resort with my Gamer Friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/BqG9lkC/"
+			}
+		},
+		"12": {
+			"title": "I Shop For Clothes With My Gamer Friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/T4Koy5V/"
+			}
+		},
+		"13": {
+			"title": "I Go to a Net Cafe with my Gamer Friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/qyPj317/"
+			}
+		},
+		"14": {
+			"title": "My Gamer Friend and a certain shark plushie",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/oqTHJnu/"
+			}
+		},
+		"15": {
+			"title": "My Gamer Friend’s parents are worried about her",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/VgItLbH/"
+			}
+		},
+		"16": {
+			"title": "I Go on a Diet with my Gamer Friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/tK1lQJf/"
+			}
+		},
+		"17": {
+			"title": "I Get Chocolate From My Gamer Friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/6AVbqeT/"
+			}
+		},
+		"18": {
+			"title": "I go to a Collaboration Cafe with my Gamer Friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/IC3GF5G/"
+			}
+		},
+		"19": {
+			"title": "My Gamer Friend Gets Hit On",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/XPpWU9A/"
+			}
+		},
+		"20": {
+			"title": "I almost get separated from my gamer friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/6SsDVvg/"
+			}
+		},
+		"21": {
+			"title": "My Gamer Friend Becomes a (Temporary) Mother",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/jxkZaXx/"
+			}
+		},
+		"22": {
+			"title": "I End Up Touching My Gamer Friend’s Chest",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/ruJ5np8/"
+			}
+		},
+		"23": {
+			"title": "The story of Shimizu-san, a woman who’s wasted 80% of her twenties watching couples visit net cafes",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/1jLRBYm/"
+			}
+		},
+		"24": {
+			"title": "I get McDonalds with my gamer friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/accabR6/"
+			}
+		},
+		"25": {
+			"title": "Inadvertently Becoming Conscious Of The Situation",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/e9MWLUr/"
+			}
+		},
+		"26": {
+			"title": "Shopping For Summer Clothes",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/FzRqxBt/"
+			}
+		},
+		"27": {
+			"title": "Chapter 27",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/nTkzGqY/"
+			}
+		},
+		"28": {
+			"title": "Chapter 28",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/4HGe9ex/"
+			}
+		},
+		"29": {
+			"title": "Chapter 29",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/fUphhVt/"
+			}
+		},
+		"30": {
+			"title": "Chapter 30",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/ORvCxmT/"
+			}
+		},
+		"31": {
+			"title": "Chapter 31",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/TrY3FdD/"
+			}
+		},
+		"32": {
+			"title": "I buy glasses with my gamer friend",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/PjpkPmX/"
+			}
+		},
+		"33": {
+			"title": "Kaori-chan ①",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/j7RTDoX/"
+			}
+		},
+		"34": {
+			"title": "Kaori-chan ②",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/ZT40qfz/"
+			}
+		},
+		"35": {
+			"title": "Family and Food",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/0Fe24gi/"
+			}
+		},
+		"36": {
+			"title": "Father",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/BCuiw40/"
+			}
+		},
+		"37": {
+			"title": "Her First Wig",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/OUMg9fT/"
+			}
+		},
+		"38": {
+			"title": "It Just Seems Natural",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/3ffrKqs/"
+			}
+		},
+		"38.5": {
+			"title": "Extra chapter",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/UHzNEqo/"
+			}
+		},
+		"39": {
+			"title": "I Figured You Must Like It",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/3NNMT4Y/"
+			}
+		},
+		"40": {
+			"title": "Good Night and Thanks",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/MgX0Y60/"
+			}
+		},
+		"41": {
+			"title": "You'll Understand Someday",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/LrJHcky/"
+			}
+		},
+		"42": {
+			"title": "Isn’t This Exciting",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/K5szf9e/"
+			}
+		},
+		"43": {
+			"title": "If Only I Hadn't Suggested It",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/Miopg8v/"
+			}
+		},
+		"44": {
+			"title": "What Do You Mean \"No Way\"!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/7RHRmvM/"
+			}
+		},
+		"45": {
+			"title": "Friend from School",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/gDcvxLs/"
+			}
+		},
+		"46": {
+			"title": "How Do I Want Him to Feel About Me",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/uNEVbT0/"
+			}
+		},
+		"46.5": {
+			"title": "Comiket 98 Extra",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/RrOEjMm/"
+			}
+		},
+		"47": {
+			"title": "Good Luck, Miruku-chan",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/qWFSBjP/"
+			}
+		},
+		"48": {
+			"title": "Don't Get The Wrong Idea!!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/URj4Y5B/"
+			}
+		},
+		"49": {
+			"title": "You Like Him, Don't You",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/jNSPoIY/"
+			}
+		},
+		"50": {
+			"title": "I Went All Out!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/1jP4L6D/"
+			}
+		},
+		"50.5": {
+			"title": "What a Good Girl",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/tYTX81N/"
+			}
+		},
+		"51": {
+			"title": "Honest Heart",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/XSgqTsP/"
+			}
+		},
+		"52": {
+			"title": "Is That All I Am to You!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/vIJWqXb/"
+			}
+		},
+		"53": {
+			"title": "Her \"Offer Your Seat\" Deck Is Too Weak!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/EKs3N1s/"
+			}
+		},
+		"53.5": {
+			"title": "That Reminded Me of You",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/6dSXcEI/"
+			}
+		},
+		"54": {
+			"title": "It's up to You to Do It",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/LcrmVKt/"
+			}
+		},
+		"54.5": {
+			"title": "I Don't Mind Doing It For You Again",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/nDTVx52/"
+			}
+		},
+		"55": {
+			"title": "Can I Touch You",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/yguBPBY/"
+			}
+		},
+		"56": {
+			"title": "Don’t Leave Me!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/AyoZmMx/"
+			}
+		},
+		"57": {
+			"title": "Wanna Take a Shower",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/4iuQ6fi/"
+			}
+		},
+		"57.5": {
+			"title": "A Chill Down My Spine",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/fo6m1Ws/"
+			}
+		},
+		"58": {
+			"title": "Do You Have a Sister or Something",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/5JiSA8X/"
+			}
+		},
+		"59": {
+			"title": "An Act of God",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/JrTIDAa/"
+			}
+		},
+		"60": {
+			"title": "This Is Bad!!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/AGmsdpP/"
+			}
+		},
+		"61": {
+			"title": "I Want to Be With You",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/2dHh6mU/"
+			}
+		},
+		"62": {
+			"title": "I Think I Like You",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/xtCbtuy/"
+			}
+		},
+		"63": {
+			"title": "I Don't Have To Hide Anything About Myself",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/2wR3E06/"
+			}
+		},
+		"64": {
+			"title": "I Guess I Can Let You Off This Time",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/Bs5LPaE/"
+			}
+		},
+		"65": {
+			"title": "So This Is His Type",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/JAJNoss/"
+			}
+		},
+		"66": {
+			"title": "Didn't You Learn That in School",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/1rsbHte/"
+			}
+		},
+		"67": {
+			"title": "Going to Your School Sounds Pretty Nice",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/K8TTFHH/"
+			}
+		},
+		"68": {
+			"title": "Life Is Like A Cup Of Tea",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/ESfUuO3/"
+			}
+		},
+		"69": {
+			"title": "It's Going To Get Busy",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/oBjwtEs/"
+			}
+		},
+		"70": {
+			"title": "Pumpkins Don't Talk This Much!",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/9i5Lfbk/"
+			}
+		},
+		"71": {
+			"title": "See You Tommorow",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/euoYIJ1/"
+			}
+		},
+		"72": {
+			"title": "Friends",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/Ig0gfcM/"
+			}
+		},
+		"73": {
+			"title": "I'll Make Sure To Remember",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/Hnn7iJo/"
+			}
+		},
+		"74": {
+			"title": "Everyone Has Things They Don't Like",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/GrHpiAp/"
+			}
+		},
+		"75": {
+			"title": "See You Later",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/ROSwJ41/"
+			}
+		},
+		"76": {
+			"title": "What's Your Favourite Food",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/KSol2yV/"
+			}
+		}
+	}
 }
