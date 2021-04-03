@@ -1,0 +1,49 @@
+{
+	"title": "Vivid Line",
+	"description": "To be clear, the girl in the last two chapters is a different girl then the one in the first two chapters.",
+	"artist": "idk",
+	"author": "idk",
+	"cover": "https://i.imgur.com/S3Jpy2g.png",
+	"chapters": {
+		"1": {
+			"title": "The Two High School Students Who Want to Make a 3D Model",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/n092Ax1/"
+			},
+			"last_updated": "1617493055"
+		},
+		"2": {
+			"title": "About the Case When the Female Friend Brings Her Face Too Close",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/taUuhxT/"
+			},
+			"last_updated": "1617493055"
+		},
+		"3": {
+			"title": "The Girl Who Isn't Aware She's Too Close",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/aAKBHML/"
+			},
+			"last_updated": "1617493055"
+		},
+		"4": {
+			"title": "The Little Sister Who Is Becoming Agonizingly Conscious About Her Brother",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/b6L9RWE/"
+			},
+			"last_updated": "1617493055"
+		},
+		"5": {
+			"title": "The Live Streaming Little Sister Wants to Call Her Brother \u201cOnii-Chan\u201d",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/Xgp27Pa/"
+			},
+			"last_updated": "1617493055"
+		}
+	}
+}
