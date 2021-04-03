@@ -1,13 +1,13 @@
 {
 	"title": "Hanging Out With A Gamer Girl",
 	"description": "Girl meets boy/girl.",
-	"artist": "にいち",
-	"author": "にいち",
+	"artist": "\u306b\u3044\u3061",
+	"author": "\u306b\u3044\u3061",
 	"cover": "https://cdn.discordapp.com/attachments/638397764924997632/825754284167397376/EQ45EdkVAAARAW6.jpg",
 	"chapters": {
 		"1": {
 			"title": "Sometimes Reality Tells Lies, Too",
-			"volume": "",
+			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/XZFhYv3/"
 			},
@@ -118,7 +118,7 @@
 			"last_updated": "1617463010"
 		},
 		"15": {
-			"title": "My Gamer Friend’s parents are worried about her",
+			"title": "My Gamer Friend\u2019s parents are worried about her",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/VgItLbH/"
@@ -174,7 +174,7 @@
 			"last_updated": "1617463010"
 		},
 		"22": {
-			"title": "I End Up Touching My Gamer Friend’s Chest",
+			"title": "I End Up Touching My Gamer Friend\u2019s Chest",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/ruJ5np8/"
@@ -182,7 +182,7 @@
 			"last_updated": "1617463010"
 		},
 		"23": {
-			"title": "The story of Shimizu-san, a woman who’s wasted 80% of her twenties watching couples visit net cafes",
+			"title": "The story of Shimizu-san, a woman who\u2019s wasted 80% of her twenties watching couples visit net cafes",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/1jLRBYm/"
@@ -262,7 +262,7 @@
 			"last_updated": "1617463010"
 		},
 		"33": {
-			"title": "Kaori-chan ①",
+			"title": "Kaori-chan \u2460",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/j7RTDoX/"
@@ -270,7 +270,7 @@
 			"last_updated": "1617463010"
 		},
 		"34": {
-			"title": "Kaori-chan ②",
+			"title": "Kaori-chan \u2461",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/ZT40qfz/"
@@ -342,7 +342,7 @@
 			"last_updated": "1617463010"
 		},
 		"42": {
-			"title": "Isn’t This Exciting",
+			"title": "Isn\u2019t This Exciting",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/K5szf9e/"
@@ -486,7 +486,7 @@
 			"last_updated": "1617463010"
 		},
 		"56": {
-			"title": "Don’t Leave Me!",
+			"title": "Don\u2019t Leave Me!",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/AyoZmMx/"
