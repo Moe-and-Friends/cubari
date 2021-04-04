@@ -1,8 +1,8 @@
 {
 	"title": "Vivid Line",
-	"description": "To be clear, the girl in the last two chapters is a different girl then the one in the first two chapters.",
-	"artist": "\u98a8\u306e\u5b50",
-	"author": "\u98a8\u306e\u5b50",
+	"description": "To be perfectly clear, the girl in the last two chapters is a different girl then the one in the first two chapters.",
+	"artist": "風の子",
+	"author": "風の子",
 	"cover": "https://i.imgur.com/S3Jpy2g.png",
 	"chapters": {
 		"1": {
@@ -38,7 +38,7 @@
 			"last_updated": "1617493055"
 		},
 		"5": {
-			"title": "The Live Streaming Little Sister Wants to Call Her Brother \u201cOnii-Chan\u201d",
+			"title": "The Live Streaming Little Sister Wants to Call Her Brother “Onii-Chan”",
 			"volume": "",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/Xgp27Pa/"
