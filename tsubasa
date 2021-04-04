@@ -1,0 +1,25 @@
+{
+	"title": "Tsubasa-chan, You're My Killer Match",
+	"description": "The most painful victim was the series itself.",
+	"artist": "\u798f\u5ca1\u601c\u65fa\u5948",
+	"author": "\u798f\u5ca1\u601c\u65fa\u5948",
+	"cover": "https://i.imgur.com/h6Fjy8C.png",
+	"chapters": {
+		"1": {
+			"title": "Tsubasa-chan",
+			"volume": "1",
+			"groups": {
+				"Tonari No Scanlation & Moe and Friends": "/proxy/api/imgur/chapter/J9xkuqP/"
+			},
+			"last_updated": "1617501015"
+		},
+		"2": {
+			"title": "Someone Was Killed",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends & Tonari No Scanlation": "/proxy/api/imgur/chapter/HU69AWd/"
+			},
+			"last_updated": "1617501015"
+		}
+	}
+}
