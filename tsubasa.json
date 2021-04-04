@@ -84,6 +84,38 @@
 				"Moe & Friends": "/proxy/api/imgur/chapter/eIn94qF/"
 			},
 			"last_updated": "1617516903"
+		},
+		"10": {
+			"title": "Unnatural",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/HvbiNK4/"
+			},
+			"last_updated": "1617566343"
+		},
+		"11": {
+			"title": "Records Left Behind",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/LEu8p7p/"
+			},
+			"last_updated": "1617566343"
+		},
+		"12": {
+			"title": "Watchful Gaze",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/RAUv7Ap/"
+			},
+			"last_updated": "1617566343"
+		},
+		"13": {
+			"title": "Temptation",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/2tJHNHU/"
+			},
+			"last_updated": "1617566343"
 		}
 	}
 }
