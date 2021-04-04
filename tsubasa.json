@@ -68,6 +68,22 @@
 				"Moe & Friends": "/proxy/api/imgur/chapter/WHfx9Fr/"
 			},
 			"last_updated": "1617516402"
+		},
+		"9": {
+			"title": "Through the Looking Glass",
+			"volume": "1",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/45GKfdS/"
+			},
+			"last_updated": "1617516903"
+		},
+		"9.5": {
+			"title": "Extra Chapter: What If He Had Matched With Kokushou",
+			"volume": "1",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/eIn94qF/"
+			},
+			"last_updated": "1617516903"
 		}
 	}
 }
