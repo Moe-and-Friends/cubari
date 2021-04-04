@@ -3,7 +3,7 @@
 	"description": "The victim that hurt the most was the series itself.",
 	"artist": "福岡怜旺奈",
 	"author": "福岡怜旺奈",
-	"cover": "https://i.imgur.com/h6Fjy8C.png",
+	"cover": "https://i.imgur.com/aqccH6x.png",
 	"chapters": {
 		"1": {
 			"title": "Tsubasa-chan",
@@ -25,7 +25,7 @@
 			"title": "The __ Nobody Knows",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/RIBDIv6/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/RIBDIv6/"
 			},
 			"last_updated": "1617505617"
 		},
@@ -33,7 +33,7 @@
 			"title": "Rejection",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/rLH61qf/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/rLH61qf/"
 			},
 			"last_updated": "1617505617"
 		},
@@ -41,7 +41,7 @@
 			"title": "Creeping Girl",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/4bTPhow/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/4bTPhow/"
 			},
 			"last_updated": "1617506250"
 		},
@@ -49,7 +49,7 @@
 			"title": "Fiendish Killer",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/krN81Gj/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/krN81Gj/"
 			},
 			"last_updated": "1617516402"
 		},
@@ -57,7 +57,7 @@
 			"title": "I'm Actually Also",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/5ekjwsE/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/5ekjwsE/"
 			},
 			"last_updated": "1617516402"
 		},
@@ -65,7 +65,7 @@
 			"title": "My Friend",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/WHfx9Fr/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/WHfx9Fr/"
 			},
 			"last_updated": "1617516402"
 		},
@@ -73,7 +73,7 @@
 			"title": "Through the Looking Glass",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/45GKfdS/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/45GKfdS/"
 			},
 			"last_updated": "1617516903"
 		},
@@ -81,7 +81,7 @@
 			"title": "Extra Chapter: What If He Had Matched With Kokushou",
 			"volume": "1",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/eIn94qF/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/eIn94qF/"
 			},
 			"last_updated": "1617516903"
 		},
@@ -89,7 +89,7 @@
 			"title": "Unnatural",
 			"volume": "",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/HvbiNK4/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/HvbiNK4/"
 			},
 			"last_updated": "1617566343"
 		},
@@ -97,7 +97,7 @@
 			"title": "Records Left Behind",
 			"volume": "",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/LEu8p7p/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/LEu8p7p/"
 			},
 			"last_updated": "1617566343"
 		},
@@ -105,7 +105,7 @@
 			"title": "Watchful Gaze",
 			"volume": "",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/RAUv7Ap/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/RAUv7Ap/"
 			},
 			"last_updated": "1617566343"
 		},
@@ -113,9 +113,65 @@
 			"title": "Temptation",
 			"volume": "",
 			"groups": {
-				"Moe & Friends": "/proxy/api/imgur/chapter/2tJHNHU/"
+				"Moe And Friends": "/proxy/api/imgur/chapter/2tJHNHU/"
 			},
 			"last_updated": "1617566343"
+		},
+		"14": {
+			"title": "In Bed",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/omGQWVa/"
+			},
+			"last_updated": "1617568244"
+		},
+		"15": {
+			"title": "Kindred Spirits",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/VLajMU2/"
+			},
+			"last_updated": "1617568244"
+		},
+		"16": {
+			"title": "Girl In Black",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/AFqkGfg/"
+			},
+			"last_updated": "1617568244"
+		},
+		"17": {
+			"title": "The Moment of Truth",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/zTg6zSG/"
+			},
+			"last_updated": "1617568244"
+		},
+		"18": {
+			"title": "Nightmare",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/16gYcxh/"
+			},
+			"last_updated": "1617568244"
+		},
+		"19": {
+			"title": "Betrayal",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/jDRmsk9/"
+			},
+			"last_updated": "1617568244"
+		},
+		"20": {
+			"title": "The Gallows",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/inCAlMW/"
+			},
+			"last_updated": "1617568244"
 		}
 	}
 }
