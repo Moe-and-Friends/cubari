@@ -1,0 +1,17 @@
+{
+	"title": "No Filter X No Confindence",
+	"description": "No filter",
+	"artist": "あきばるいき",
+	"author": "あきばるいき",
+	"cover": "https://i.imgur.com/9AOPJDb.png",
+	"chapters": {
+		"1": {
+			"title": "No Filter X No Confidence",
+			"volume": "",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/LQVItTD/"
+			},
+			"last_updated": "1617509158"
+		}
+	}
+}
