@@ -44,6 +44,30 @@
 				"Moe & Friends": "/proxy/api/imgur/chapter/4bTPhow/"
 			},
 			"last_updated": "1617506250"
+		},
+		"6": {
+			"title": "Fiendish Killer",
+			"volume": "1",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/krN81Gj/"
+			},
+			"last_updated": "1617516402"
+		},
+		"7": {
+			"title": "I'm Actually Also",
+			"volume": "1",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/5ekjwsE/"
+			},
+			"last_updated": "1617516402"
+		},
+		"8": {
+			"title": "My Friend",
+			"volume": "1",
+			"groups": {
+				"Moe & Friends": "/proxy/api/imgur/chapter/WHfx9Fr/"
+			},
+			"last_updated": "1617516402"
 		}
 	}
 }
