@@ -3,7 +3,7 @@
 	"description": "The victim that hurt the most was the series itself.",
 	"artist": "福岡怜旺奈",
 	"author": "福岡怜旺奈",
-	"cover": "https://i.imgur.com/aqccH6x.png",
+	"cover": "https://cdn.discordapp.com/attachments/546779200649035795/828371203856400424/credits.png",
 	"chapters": {
 		"1": {
 			"title": "Tsubasa-chan",
@@ -172,6 +172,30 @@
 				"Moe And Friends": "/proxy/api/imgur/chapter/inCAlMW/"
 			},
 			"last_updated": "1617568244"
+		},
+		"21": {
+			"title": "Key",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/OnOGc6d/"
+			},
+			"last_updated": "1617569525"
+		},
+		"22": {
+			"title": "Forgotten Scenes",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/osrUHaV/"
+			},
+			"last_updated": "1617569525"
+		},
+		"22.5": {
+			"title": "Series Cancellation Announcement [END]",
+			"volume": "",
+			"groups": {
+				"Moe And Friends": "/proxy/api/imgur/chapter/iSGNK4Y/"
+			},
+			"last_updated": "1617569525"
 		}
 	}
 }
