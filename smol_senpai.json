@@ -3,10 +3,10 @@
 	"description": "height gap office moe",
 	"artist": "あきばるいき",
 	"author": "あきばるいき",
-	"cover": "https://imgur.com/a/NjGfW1x",
+	"cover": "https://i.imgur.com/vcVpSgg.jpeg",
 	"chapters": {
 		"1": {
-			"title": "",
+			"title": "Chapter 1",
 			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/NjGfW1x/"
@@ -14,7 +14,7 @@
 			"last_updated": "1617510693"
 		},
 		"2": {
-			"title": "",
+			"title": "Chapter 2",
 			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/GTey75v/"
@@ -22,7 +22,7 @@
 			"last_updated": "1617510693"
 		},
 		"3": {
-			"title": "",
+			"title": "Chapter 3",
 			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/sZ021i9/"
@@ -30,7 +30,7 @@
 			"last_updated": "1617510693"
 		},
 		"4": {
-			"title": "",
+			"title": "Chapter 4",
 			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/3XCxeM1/"
@@ -38,7 +38,7 @@
 			"last_updated": "1617510693"
 		},
 		"5": {
-			"title": "",
+			"title": "Chapter 5",
 			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/aNnezt3/"
@@ -46,7 +46,7 @@
 			"last_updated": "1617510693"
 		},
 		"6": {
-			"title": "",
+			"title": "Chapter 6",
 			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/ZrOUOJk/"
@@ -54,7 +54,7 @@
 			"last_updated": "1617510693"
 		},
 		"7": {
-			"title": "",
+			"title": "Chapter 7",
 			"volume": "1",
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/YShAyre/"
