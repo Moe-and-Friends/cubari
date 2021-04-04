@@ -11,8 +11,7 @@
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/HAiBDOa/"
 			},
-<<<<<<< HEAD
-			"last_updated": "1617514678"
+			"last_updated": "1617515193"
 		},
 		"5": {
 			"title": "Chapter 5",
@@ -20,13 +19,7 @@
 			"groups": {
 				"Moe & Friends": "/proxy/api/imgur/chapter/UhhIwgK/"
 			},
-			"last_updated": "1617514678"
+			"last_updated": "1617515193"
 		}
 	}
 }
-=======
-			"last_updated": "1617463010"
-		}
-	}
-}
->>>>>>> c6010a67b34692a0f0fc2e579ad3d2a5978983ac
