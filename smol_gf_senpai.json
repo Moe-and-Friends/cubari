@@ -1,0 +1,25 @@
+{
+	"title": "My Short Girlfriend Senpai Is Way Too Cute",
+	"description": "short senpai evolved into short gf senpai",
+	"artist": "あきばるいき",
+	"author": "あきばるいき",
+	"cover": "https://cdn.discordapp.com/attachments/546779200649035795/828518903402594332/01.png",
+	"chapters": {
+		"1": {
+			"title": "",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/s6ZrLyL/"
+			},
+			"last_updated": "1617604821"
+		},
+		"2": {
+			"title": "",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/D11h9oE/"
+			},
+			"last_updated": "1617604821"
+		}
+	}
+}
