@@ -60,6 +60,78 @@
 				"Moe and Friends": "/proxy/api/imgur/chapter/YShAyre/"
 			},
 			"last_updated": "1617510693"
+		},
+		"8": {
+			"title": "Chapter 8",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/4IUvBf1/"
+			},
+			"last_updated": "1617586537"
+		},
+		"9": {
+			"title": "Chapter 9",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/MljNlmN/"
+			},
+			"last_updated": "1617586537"
+		},
+		"10": {
+			"title": "Chapter 10",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/jKq7O9z/"
+			},
+			"last_updated": "1617586537"
+		},
+		"11": {
+			"title": "Chapter 11",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/MW7OgDo/"
+			},
+			"last_updated": "1617586537"
+		},
+		"12": {
+			"title": "Chapter 12",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/DR5Eb8z/"
+			},
+			"last_updated": "1617586537"
+		},
+		"13": {
+			"title": "Chapter 13",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/KYqTjEp/"
+			},
+			"last_updated": "1617586537"
+		},
+		"14": {
+			"title": "Chapter 14",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/agHEsVu/"
+			},
+			"last_updated": "1617586537"
+		},
+		"15": {
+			"title": "Chapter 15",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/GcqzwMW/"
+			},
+			"last_updated": "1617586537"
+		},
+		"15.1": {
+			"title": "Vol 1 Extras",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/GQ5aXVA/"
+			},
+			"last_updated": "1617586537"
 		}
 	}
 }
