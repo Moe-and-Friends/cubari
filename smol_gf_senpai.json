@@ -20,6 +20,38 @@
 				"Moe and Friends": "/proxy/api/imgur/chapter/D11h9oE/"
 			},
 			"last_updated": "1617604821"
+		},
+		"3": {
+			"title": "",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/G5HqJhf/"
+			},
+			"last_updated": "1617659184"
+		},
+		"4": {
+			"title": "",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/70kCJB1/"
+			},
+			"last_updated": "1617659184"
+		},
+		"5": {
+			"title": "",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/tGpp5ch/"
+			},
+			"last_updated": "1617659184"
+		},
+		"6": {
+			"title": "",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/TBv9bG9/"
+			},
+			"last_updated": "1617659184"
 		}
 	}
 }
