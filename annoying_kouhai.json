@@ -1,0 +1,57 @@
+{
+	"title": "Just Flirting With a Cute, Annoying Kouhai",
+	"description": "An anthology of one-shots from vaious authors.",
+	"artist": "Various",
+	"author": "Various",
+	"cover": "https://i.imgur.com/L5ekcjn.png",
+	"chapters": {
+		"1": {
+			"title": "One Side of You",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/XqMCc8b/"
+			},
+			"last_updated": "1617589834"
+		},
+		"2": {
+			"title": "Ruruko Tachibana is Troublesome",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/9iEqzs6/"
+			},
+			"last_updated": "1617589834"
+		},
+		"3": {
+			"title": "Sahara Won't Lose Today Either!",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/fQ4cKxB/"
+			},
+			"last_updated": "1617589834"
+		},
+		"4": {
+			"title": "Nishigaki Taking Advantage of Love",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/bmfEiQu/"
+			},
+			"last_updated": "1617589834"
+		},
+		"5": {
+			"title": "Andou-Senpai, Morals in Disorder",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/JHMEoam/"
+			},
+			"last_updated": "1617589834"
+		},
+		"6": {
+			"title": "Afterschool Personal Lesson",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/DdKULdB/"
+			},
+			"last_updated": "1617589834"
+		}
+	}
+}
