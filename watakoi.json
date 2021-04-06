@@ -1,0 +1,25 @@
+{
+	"title": "We Don't Know  A Thing About Love",
+	"description": "they really don't know a thing.",
+	"artist": "あきばるいき",
+	"author": "あきばるいき",
+	"cover": "https://cdn.discordapp.com/attachments/546779200649035795/828809095674462269/01.jpg",
+	"chapters": {
+		"1": {
+			"title": "We Don't Know A Thing About Love",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/mPTTseC/"
+			},
+			"last_updated": "1617673932"
+		},
+		"2": {
+			"title": "Our Eyes Never Meet",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/2nA0Iwm/"
+			},
+			"last_updated": "1617673932"
+		}
+	}
+}
