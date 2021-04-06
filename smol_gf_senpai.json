@@ -6,7 +6,7 @@
 	"cover": "https://cdn.discordapp.com/attachments/546779200649035795/828518903402594332/01.png",
 	"chapters": {
 		"1": {
-			"title": "",
+			"title": "Chapter 1",
 			"volume": "1",
 			"groups": {
 				"Moe and Friends": "/proxy/api/imgur/chapter/s6ZrLyL/"
@@ -14,7 +14,7 @@
 			"last_updated": "1617604821"
 		},
 		"2": {
-			"title": "",
+			"title": "Chapter 2",
 			"volume": "1",
 			"groups": {
 				"Moe and Friends": "/proxy/api/imgur/chapter/D11h9oE/"
@@ -22,7 +22,7 @@
 			"last_updated": "1617604821"
 		},
 		"3": {
-			"title": "",
+			"title": "Chapter 3",
 			"volume": "1",
 			"groups": {
 				"Moe and Friends": "/proxy/api/imgur/chapter/G5HqJhf/"
@@ -30,7 +30,7 @@
 			"last_updated": "1617659184"
 		},
 		"4": {
-			"title": "",
+			"title": "Chapter 4",
 			"volume": "1",
 			"groups": {
 				"Moe and Friends": "/proxy/api/imgur/chapter/70kCJB1/"
@@ -38,7 +38,7 @@
 			"last_updated": "1617659184"
 		},
 		"5": {
-			"title": "",
+			"title": "Chapter 5",
 			"volume": "1",
 			"groups": {
 				"Moe and Friends": "/proxy/api/imgur/chapter/tGpp5ch/"
@@ -46,12 +46,44 @@
 			"last_updated": "1617659184"
 		},
 		"6": {
-			"title": "",
+			"title": "Chapter 6",
 			"volume": "1",
 			"groups": {
 				"Moe and Friends": "/proxy/api/imgur/chapter/TBv9bG9/"
 			},
 			"last_updated": "1617659184"
+		},
+		"7": {
+			"title": "Chapter 7",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/QHWobfm/"
+			},
+			"last_updated": "1617671416"
+		},
+		"8": {
+			"title": "Chapter 8",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/UOQ5Gwq/"
+			},
+			"last_updated": "1617671416"
+		},
+		"9": {
+			"title": "Chapter 9",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/PpGMGRA/"
+			},
+			"last_updated": "1617671416"
+		},
+		"10": {
+			"title": "Chapter 10",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/NhNICQL/"
+			},
+			"last_updated": "1617671416"
 		}
 	}
 }
