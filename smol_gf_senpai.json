@@ -84,6 +84,14 @@
 				"Moe and Friends": "/proxy/api/imgur/chapter/NhNICQL/"
 			},
 			"last_updated": "1617671416"
+		},
+		"10.1": {
+			"title": "Vol 1 Extras",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/GpnEozD/"
+			},
+			"last_updated": "1617673927"
 		}
 	}
 }
