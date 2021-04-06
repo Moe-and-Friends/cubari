@@ -182,12 +182,84 @@
 			"last_updated": "1617723932"
 		},
 		"19": {
-			"title": "",
+			"title": "Chapter 19",
 			"volume": "3",
 			"groups": {
-				"Moe and Friends": "/proxy/api/imgur/chapter/eOCHLnH/"
+				"Moe and Friends": "/proxy/api/imgur/chapter/cV3c0jH/"
 			},
 			"last_updated": "1617723932"
+		},
+		"20": {
+			"title": "Chapter 20",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/UPhCOEu/"
+			},
+			"last_updated": "1617725081"
+		},
+		"21": {
+			"title": "Chapter 21",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/CkFBtC1/"
+			},
+			"last_updated": "1617725081"
+		},
+		"22": {
+			"title": "Chapter 22",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/W7nULML/"
+			},
+			"last_updated": "1617725081"
+		},
+		"23": {
+			"title": "Chapter 23",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/utVDCUa/"
+			},
+			"last_updated": "1617725081"
+		},
+		"24": {
+			"title": "Chapter 24",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/F2YdeIQ/"
+			},
+			"last_updated": "1617725081"
+		},
+		"25": {
+			"title": "Chapter 25",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/05u3AU7/"
+			},
+			"last_updated": "1617725081"
+		},
+		"26": {
+			"title": "Chapter 26",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/oM6HVUe/"
+			},
+			"last_updated": "1617725081"
+		},
+		"27": {
+			"title": "Chapter 27",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/Rj2kGiB/"
+			},
+			"last_updated": "1617725081"
+		},
+		"28": {
+			"title": "Chapter 28",
+			"volume": "3",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/BkJ1wLl/"
+			},
+			"last_updated": "1617725081"
 		}
 	}
 }
