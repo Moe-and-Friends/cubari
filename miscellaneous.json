@@ -1,0 +1,17 @@
+{
+	"title": "Miscellaneous / Other",
+	"description": "Various other series worked on by Moe and Friends",
+	"artist": "V.A.",
+	"author": "V.A.",
+	"cover": "https://cdn.discordapp.com/attachments/546427129882083350/834708194361212938/latest.png",
+	"chapters": {
+		"1": {
+			"title": "Bugs Are a Window to the Programmer’s Soul",
+			"volume": "1",
+			"groups": {
+				"Moe and Friends": "/proxy/api/imgur/chapter/phfFKb3/"
+			},
+			"last_updated": "1619206645"
+		}
+	}
+}
